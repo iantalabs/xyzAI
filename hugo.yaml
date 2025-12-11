@@ -1,7 +1,7 @@
 baseURL: https://xyzai.pages.dev/
 languageCode: en-us
 title: my XYZ AI
-paginate: 5
+pagination.pagerSize: 5
 theme: ["PaperMod"] 
 
 enableRobotsTXT: true
